@@ -11,4 +11,4 @@ function calclatorDeposit(input){
 
     console.log(finalSum);
 }
-calclatorDeposit(["200", "3", "5.7"]);
+calclatorDeposit(["200", "3", "5.7"]); fsfsdfasd sada asd
